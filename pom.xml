@@ -33,7 +33,7 @@
 
     <!-- Testing versions -->
     <version.assertj>3.19.0</version.assertj>
-    <version.awaitility>4.0.3</version.awaitility>
+    <version.awaitility>4.1.0</version.awaitility>
     <version.org.jboss.arquillian>1.6.0.Final</version.org.jboss.arquillian>
     <version.org.jboss.arquillian.container.weld-embedded>2.1.0.Final</version.org.jboss.arquillian.container.weld-embedded>
     <version.org.jboss.arquillian.wildfly>3.0.1.Final</version.org.jboss.arquillian.wildfly>
@@ -60,7 +60,7 @@
     <version.smallrye.code.rules.plugin>1</version.smallrye.code.rules.plugin>
     <version.formatter.plugin>2.15.0</version.formatter.plugin>
     <version.impsort.plugin>1.6.0</version.impsort.plugin>
-    <version.jacoco.plugin>0.8.6</version.jacoco.plugin>
+    <version.jacoco.plugin>0.8.7</version.jacoco.plugin>
     <version.smallrye.plugin>1.0.0</version.smallrye.plugin>
     <version.versions.plugin>2.8.1</version.versions.plugin>
 
